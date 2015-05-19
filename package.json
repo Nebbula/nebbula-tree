@@ -1,0 +1,24 @@
+{
+  "name": "nebbula-tree",
+  "version": "1.0.0",
+  "description": "Nebbula Tree module",
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nebbula/nebbula-tree.git"
+  },
+  "keywords": [
+    "nebbula"
+    "ast",
+    "tree",
+    "compiler"
+  ],
+  "author": "Giovanny Andres Gongora Granada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nebbula/nebbula-tree/issues"
+  },
+  "dependencies": {
+    "nebbula-visitor": "1.x"
+  },
+}
